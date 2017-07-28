@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KoltinDemo</string>
+    <string name="login">我是一个转圈圈的dialog</string>
+</resources>
